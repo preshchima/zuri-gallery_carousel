@@ -30,6 +30,9 @@ const slider = function () {
     );
   };
 
+  //initialize first slide
+  goToSlide(0);
+
   // Next slide
   const nextSlide = function () {
     if (curSlide === maxSlide - 1) {

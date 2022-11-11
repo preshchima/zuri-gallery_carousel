@@ -1,5 +1,4 @@
-
-### Project Link: https://stellular-strudel-2a80f5.netlify.app
+### Project Link: https://sochima-gallery-carousel.netlify.app
 
 # Task Title: Introduction to Javascript Week 6 and 7
 
