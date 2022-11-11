@@ -1,3 +1,6 @@
+
+### Project Link: https://stellular-strudel-2a80f5.netlify.app
+
 # Task Title: Introduction to Javascript Week 6 and 7
 
 Create a Carousel/Slideshow with 6 different images of your choice. Ensure the following:
